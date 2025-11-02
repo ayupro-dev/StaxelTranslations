@@ -1,167 +1,167 @@
 ﻿language.code=ru-RU
 language=Русский
 //TODO Translate [Reference] 'Hi! I don't think I've seen you before?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000010=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000010=Привет! Мне кажется, я тебя раньше не видел?
 //TODO Translate [Reference] 'What's your name?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000020=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000020=Как тебя зовут?
 //TODO Translate [Reference] '^c:1486b0;{0-playername}^c:pop;...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000030=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000030=^c:1486b0;{0-playername}^c:pop;...
 //TODO Translate [Reference] 'Are you another friend? I don't have any more riddles prepared...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000040=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000040=Ты ещё один её друг? У меня на вас закончились шутки...
 //TODO Translate [Reference] 'But I think you will like where this takes you.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000050=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000050=Но, думаю тебе понравится то, куда это приведёт.
 //TODO Translate [Reference] 'Just so you know... I will notice if you change anything in the cave.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000060=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000060=Так, чтобы донести до тебя... Я замечу, если ты изменишь что-либо в пещере.
 //TODO Translate [Reference] 'So don't steal anything...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000070=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000070=Так-что ничего не кради...
 //TODO Translate [Reference] '...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000080=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000080=...
 //TODO Translate [Reference] 'Hi?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000090=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000090=Привет?
 //TODO Translate [Reference] 'I don't know you...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000100=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000100=Я тебя не знаю...
 //TODO Translate [Reference] 'Why are you here? Are you going to take my stuff?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000110=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000110=Почему ты тут? Ты собираешься украсть мои вещи?
 //TODO Translate [Reference] 'Stay away from my things.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000120=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000120=Держись по дальше от моих вещей!
 //TODO Translate [Reference] 'Only my friends can come in here...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000130=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000130=Только друзьям я разрешаю войти туда...
 //TODO Translate [Reference] 'You do seem alright though... but we're not friends!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000140=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000140=Хоть с тебой кажется всё в порядке... но мы не друзья! 
 //TODO Translate [Reference] 'Or... Are we?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000150=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000150=Или... друзья?
 //TODO Translate [Reference] 'No! you need to prove yourself first!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000160=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000160=Нет! Сперва докажи это!
 //TODO Translate [Reference] 'If you can solve all my riddles, I'll let you see my lair.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000170=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000170=Если ты разгадаешь все мои загадки, я покажу тебе свое логово.
 //TODO Translate [Reference] 'So lets have some fun! Here's riddle number one...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000180=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000180=Так что давай повеселимся! Вот загадка номер один...
 //TODO Translate [Reference] 'I'm tall when I'm young but short when I'm old. What am I?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000190=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000190=В молодости я высокий, а в старости - низкий. кто я такой?
 //TODO Translate [Reference] 'These riddles aren't easy, but not just anyone can be my friend!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000200=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000200=Эти загадки непросты, но не каждому дано быть моим другом!
 //TODO Translate [Reference] 'Oh hey, you've actually found me.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000210=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000210=О, привет, меня действительно нашли.
 //TODO Translate [Reference] 'You're doing better than I expected!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000220=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000220=Ты справляешься лучше, чем я ожидал!
 //TODO Translate [Reference] 'But if you really want to be my friend, you'll need to know a bit more about me.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000230=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000230=Но если ты действительно хочешь быть моим другом, тебе надо знать обо мне немного больше.
 //TODO Translate [Reference] 'It's important that we share the same tastes.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000240=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000240=Важно, чтобы у нас были одинаковые вкусы.
 //TODO Translate [Reference] 'So lets see how you do, on riddle number two...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000250=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000250=Итак, давай посмотрим, как ты справишься с загадкой номер два...
 //TODO Translate [Reference] 'Of all the food here, which tastes the best?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000260=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000260=Какое из представленных видов еды самое лучшее на вкус?
 //TODO Translate [Reference] 'I didn't expect you to make it!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000270=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000270=Я не ожидал, что у тебя получится!
 //TODO Translate [Reference] 'Good to know you have excellent taste...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000280=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000280=Приятно сознавать, что у тебя превосходный вкус...
 //TODO Translate [Reference] 'Because now you know what to bring for my birthday!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000290=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000290=Потому что теперь ты знаешь, что подарить мне на день рождения!
 //TODO Translate [Reference] 'That is, if I invite you...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000300=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000300=В том случае, если я приглашу на него...
 //TODO Translate [Reference] 'We don't truly know each other yet.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000310=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000310=Мы еще по-настоящему не знаем друг друга.
 //TODO Translate [Reference] 'For that to be true, you have to get to know my other friends too!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000320=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000320=Чтобы это было по настоящему, тебе стоит познакомиться и с другими моими друзьями!
 //TODO Translate [Reference] 'So for riddle number three, this is my question to thee...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000330=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000330=Итак, что касается загадки номер три, то вот мой вопрос к тебе...
 //TODO Translate [Reference] 'I've got many friends, they're all here! But only one steals the spotlight with cheer! Who is it?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000340=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000340=У меня много друзей, они все здесь! Но только один из них вызывает всеобщее восхищение! Кто это?
 //TODO Translate [Reference] 'Good!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000350=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000350=Прекрасно!
 //TODO Translate [Reference] 'You know my friends!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000360=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000360=Ты знаешь моих друзей!
 //TODO Translate [Reference] 'Now... I want my friends to always feel like they're at home.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000370=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000370=Сейчас... Я желаю, чтобы мои друзья всегда чувствовали себя как дома.
 //TODO Translate [Reference] 'So I have to make sure there are enough toilets for everyone!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000380=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000380=Поэтому я должен позаботиться о том, чтобы туалетов хватало на всех!
 //TODO Translate [Reference] 'You never know when one might break... that would be awkward!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000390=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000390=Никогда не знаешь, когда что-то может выйти из строя... Это было бы неловко!
 //TODO Translate [Reference] 'I'm thinking of getting one more. Just in case!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000400=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000400=Подумываю приобрести ещё один запасной, так, на всякий случай.
 //TODO Translate [Reference] 'So for riddle number four, you'll have to count the toilets on every floor...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000410=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000410=Итак, для решения четвертой задачи вам придется сосчитать туалеты на каждом этаже...
 //TODO Translate [Reference] 'If I get one more, how many would I have then?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000420=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000420=И если я сделаю ещё один, сколько всего их у меня тогда будет?
 //TODO Translate [Reference] '^c:1486b0;{0-playername}^c:pop;, what are you doing here?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000430=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000430=^c:1486b0;{0-playername}^c:pop;, что ты здесь делаешь?
 //TODO Translate [Reference] 'I don't recall planning a sleepover...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000440=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000440=Что-то я не припомню, чтобы планировал тут совместную ночевку...
 //TODO Translate [Reference] 'Not that I mind!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000450=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000450=Не то чтобы я возражал!
 //TODO Translate [Reference] 'Around here, it's always time for a sleepover.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000460=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000460=В здешних краях всегда есть время для совместной ночевки.
 //TODO Translate [Reference] 'You should come and find me in my game room. When it's sleepover time of course!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000470=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000470=Тебе стоит зайти ко мне в игровую. Когда придет время ночевать, конечно!
 //TODO Translate [Reference] 'Do you like my farm?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000480=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000480=Тебе нравится моя ферма?
 //TODO Translate [Reference] 'It's pretty cool, isn't it?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000490=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000490=Впечатляюще, не так ли?
 //TODO Translate [Reference] 'We can build you a house around here if you want.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000500=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000500=Мы можем построить тебе дом где-нибудь поблизости, если хочешь.
 //TODO Translate [Reference] 'And maybe... We could visit each other from time to time!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000510=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000510=И, возможно... Мы могли бы навещать друг друга время от времени!
 //TODO Translate [Reference] '... You seem like you have something you want to ask me?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000520=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000520=... Похоже, ты хочешь меня о чем-то спросить?
 //TODO Translate [Reference] 'Where did you get that hat?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000530=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000530=Где ты взял эту шляпу?
 //TODO Translate [Reference] 'Let's give Max his hat back.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000540=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000540=Давай вернем Максу его шляпу.
 //TODO Translate [Reference] 'Oh uh... I found it on the ground in my hallway.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000550=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000550=Ох... это нашлось на полу в коридоре.
 //TODO Translate [Reference] 'I wanted to give it to that old man... but he didn't seem very friendly...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000560=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000560=Думал отдать тому старику... но он показался мне не очень дружелюбным...
 //TODO Translate [Reference] 'Figured I could just keep it, I think it fits me better anyway!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000570=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000570=Полагаю, что могу просто оставить это себе, думаю, мне все равно больше подходит!
 //TODO Translate [Reference] 'He's pretty stressed right now...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000580=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000580=Он сейчас очень напряжен...
 //TODO Translate [Reference] 'He's very friendly!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10000590=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10000590=Он очень дружелюбный!
 //TODO Translate [Reference] 'Oh... really?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005300=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005300=О... правда?
 //TODO Translate [Reference] 'I don't want to cause any trouble...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005310=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005310=Я не собираюсь причинять вам никаких неприятностей...
 //TODO Translate [Reference] 'Could you give it to him for me? I'm not sure he wants to have me around...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005320=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005320=Не могли бы вы передать это ему от меня? Я не уверен, что он хочет, чтобы я был рядом...
 //TODO Translate [Reference] 'Anyway, thanks for stopping by ^c:1486b0;{0-playername}^c:pop;, You're actually pretty nice!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005330=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005330=В любом случае, спасибо за встречу ^c:1486b0;{0-playername}^c:pop;, вы замечательный человек. 
 //TODO Translate [Reference] '... Is there something else you want to say?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005340=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005340=... Хотели ещё что-то сказать?
 //TODO Translate [Reference] 'Your sister, Rem, is worried about you.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005700=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005700=Твоя сестра, Рэм, беспокоится о тебе.
 //TODO Translate [Reference] 'Your family wants you back home.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005800=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005800=Твоя семья хочет, чтобы ты вернулся домой.
 //TODO Translate [Reference] 'But I don't want to go back to the ^c:1486b0;Treetop Village^c:pop;! It's no fun there, I'd rather stay here.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005810=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005810=Но я не хочу возвращаться в деревню ^c:1486b0;на вершине дерева^c:pop;! Там совсем не весело, я лучше останусь здесь.
 //TODO Translate [Reference] 'At least here I can do some adventuring!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005820=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005820=По крайней мере, здесь я могу найти немного приключений!
 //TODO Translate [Reference] 'Come home with me and talk with them.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005830=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005830=Пойдем со мной домой и поговорим с ними.
 //TODO Translate [Reference] 'I'm not sure I want to do that...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005840=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005840=Я не уверен, что хочу этого делать...
 //TODO Translate [Reference] 'I'm gonna spend some time outside my home...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005850=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005850=Я пожалуй постою некоторое время возле своего дома...
 //TODO Translate [Reference] 'Out of the cave, and on the surface. There are a lot of animals there, you know.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005860=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005860=Выйдя из пещеры окажетесь на поверхности. Там знаете-ли очень много живности.
 //TODO Translate [Reference] 'Feel free to look around here after I leave. Just don't steal my stuff...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005870=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005870=Можешь осмотреться здесь, когда я уйду. Только не кради мои вещи...
 //TODO Translate [Reference] 'Oh, and before you leave, come say goodbye to me.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005880=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005880=О, и когда захочешь уйти, подойди попрощаться со мной.
 //TODO Translate [Reference] 'I'll be hanging out on the surface!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005890=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005890=Я буду прогуливаться на поверхности.
 //TODO Translate [Reference] 'Aren't you gonna give that hat back?'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005900=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005900=Ты не собираешься возвращать эту шляпу?
 //TODO Translate [Reference] 'I don't want that guy to get angrier with me...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:10005910=
+staxel.collector.village.character.dialogue.CollectorGuy.line:10005910=Я не хочу, чтобы этот парень разозлился на меня еще больше...
 //TODO Translate [Reference] '...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:80000100=
+staxel.collector.village.character.dialogue.CollectorGuy.line:80000100=...
 //TODO Translate [Reference] 'The man with the tall hat just ran past.'
-staxel.collector.village.character.dialogue.CollectorGuy.line:80000200=
+staxel.collector.village.character.dialogue.CollectorGuy.line:80000200=Мужчина в высокой шляпе только что пробежал мимо.
 //TODO Translate [Reference] 'He was in a hurry, but he didn't seem too mad anymore!'
-staxel.collector.village.character.dialogue.CollectorGuy.line:80000300=
+staxel.collector.village.character.dialogue.CollectorGuy.line:80000300=Он торопился, но уже не казался таким сердитым!
 //TODO Translate [Reference] 'I do still feel bad though...'
-staxel.collector.village.character.dialogue.CollectorGuy.line:80000400=
+staxel.collector.village.character.dialogue.CollectorGuy.line:80000400=Но я все еще чувствую себя неловко...
 //TODO Translate [Reference] 'Maybe I should come to your town after all... Maybe I can bring a gift or something...'
 staxel.collector.village.character.dialogue.CollectorGuy.line:80000500=
 //TODO Translate [Reference] 'You got enough toilet paper there? How about toilets?'
